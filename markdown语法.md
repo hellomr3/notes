@@ -31,5 +31,11 @@ fun main(){
 
 *倾斜*
 
+测试图片引用
+
+![image](../img/正则反向引用例.png)
+
+![Image github](http://github.com/hellomr3/notes/raw/master/img/正则反向引用例.png)
+
 
 
