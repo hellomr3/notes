@@ -1,0 +1,3 @@
+#Q:修改/etc/profile文件后命令无法使用
+
+A:export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
