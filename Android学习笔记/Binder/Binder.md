@@ -1,3 +1,9 @@
+### Linux中的进程间通信
+- 管道
+- Socket
+- 共享内存
+- 
+
 ### Binder机制
 
 1. Binder是什么？
